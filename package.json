@@ -1,7 +1,7 @@
 {
   "name": "nodejs-dotenv-server",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "type": "module",
   "author": "TommyLPB39",
   "license": "ISC",
