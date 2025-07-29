@@ -12,6 +12,4 @@ Change the values in ```server.env.example``` or use the default values.
 
 Start the server with the command ```node server.js```
 
-**⚠️ • Remember to rename the file ```server.env.example``` to ```server.env```.
-
-Remember to also change the path in : ```dotenv.config({ path: 'server.env.exemple' })```**
+**⚠️ • Remember to rename the file ```server.env.example``` to ```server.env```. Remember to also change the path in : ```dotenv.config({ path: 'server.env.exemple' })```**
